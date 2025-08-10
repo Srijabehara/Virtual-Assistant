@@ -6,7 +6,7 @@ It can open websites, play music/videos, launch local apps, respond to commands,
 ## Features
 - Open websites like Google, YouTube, Spotify
 - Play songs or videos
-- Open installed apps (Notepad, Word, VS Code, etc.)
+- Open installed apps (Powerpoint, Word, VS Code, etc.)
 - Tell the time and date
 - Respond to basic greetings
 - Voice command support
