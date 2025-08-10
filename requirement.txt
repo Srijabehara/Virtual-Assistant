@@ -1,0 +1,4 @@
+pillow
+pyttsx3
+SpeechRecognition
+PyAudio
